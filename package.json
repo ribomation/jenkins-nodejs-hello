@@ -1,0 +1,24 @@
+{
+  "name": "jenkins-nodejs-hello",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "app": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ribomation/jenkins-nodejs-hello.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ribomation/jenkins-nodejs-hello/issues"
+  },
+  "homepage": "https://github.com/ribomation/jenkins-nodejs-hello#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
